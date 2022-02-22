@@ -64,8 +64,6 @@ Sometimes I try to study other languages ​​as well. Languages ​​such as 
   
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
 <img src="https://img.shields.io/badge/Github blog-222222?style=flat-square&logo=GitHub Pages&logoColor=white"/>
-<img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white"/>
-
 
   ***
 
