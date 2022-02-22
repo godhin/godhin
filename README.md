@@ -6,13 +6,16 @@
   
 <a href="https://github.com/godhin"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgodhin&count_bg=%233DC8AC&title_bg=%23000000&icon=godotengine.svg&icon_color=%23FFF9F9&title=H+-+I&edge_flat=false)"/></a>
  
-Eich I
- 
+💪 Hi there!
+  I'm learning **Aartificial intelligence, AI** using Python. 🐍
+  
+  
+Sometimes I try to study other languages ​​as well. Languages ​​such as SQL and HTML 👨🏻‍💻
 </div>
 
 ***
   
-## <div align = 'center'> 🔥 Skill's stack 🔥 </div>
+### <div align = 'center'> 🔥 Skill's stack 🔥 </div>
 <div align = 'center'>
 
   Frontend
@@ -68,12 +71,12 @@ Eich I
 
 
 </div>
-<div align = 'center'>
   <div2 style = float:left;>
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=godhin)](https://github.com/godhin/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=godhin)](https://github.com/godhin/github-readme-stats)
-  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=godhin)](https://github.com/godhin/github-readme-stats) 
+      <div3 style = float:left;>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=godhin)](https://github.com/godhin/github-readme-stats)
+    </div3>
   </div2>
-</div>
 
 <div align = 'center'><img src = 'https://capsule-render.vercel.app/api?type=shark&color=auto&height=100&section=footer'/></div>
