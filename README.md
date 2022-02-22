@@ -12,6 +12,10 @@
   
   
 Sometimes I try to study other languages ​​as well. Languages ​​such as SQL and HTML 👨🏻‍💻
+  
+  
+  ![nyan](https://user-images.githubusercontent.com/75519839/155043486-34a2e419-0e45-4023-ac88-4ded5cc55208.gif)
+
 </div>
 
 ***
