@@ -1,4 +1,4 @@
-<div align = 'center'> <img src='https://capsule-render.vercel.app/api?type=shark&color=auto&height=100&section=header&text=Godhin&fontSize=100'/> </div>
+<div align = 'center'> <img src='https://capsule-render.vercel.app/api?type=shark&color=auto&height=100&section=header&text=Nicholas YOO&fontSize=100'/> </div>
 
 ***
 
