@@ -15,7 +15,12 @@ Sometimes I try to study other languages ​​as well. Languages ​​such as 
   
   
   ![nyan](https://user-images.githubusercontent.com/75519839/155043486-34a2e419-0e45-4023-ac88-4ded5cc55208.gif)
+  
+  <code>I try to code every day. 👨🏻‍💻</code>
 
+![image](https://user-images.githubusercontent.com/75519839/155270710-5bc7ecb5-9cc3-47ee-9cbf-3a0801c4f5f4.gif)
+
+  
 </div>
 
 ***
