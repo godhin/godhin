@@ -85,15 +85,15 @@ Sometimes I try to study other languages ​​as well. Languages ​​such as 
 ***
 
 ### <div align = 'center'> ⚡️ Github & Language Stats ⚡️ </div>
+        
+| <a href="https://github.com/godhin/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=godhin&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Yoo's github stats" /></a> | <a href="https://github.com/godhin/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=godhin&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
-  <div2 style = float:left;>
 
+### <div align = 'center'>🜸 Top Repositories 🜸</div>
+<a href="https://github.com/godhin/cmblir.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=godhin&repo=cmblir.io&theme=buefy" />
+</a>
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=godhin)](https://github.com/godhin/github-readme-stats) 
-      <div3 style = float:left;>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=godhin)](https://github.com/godhin/github-readme-stats)
-    </div3>
-  </div2>
-
 
 <div align = 'center'><img src = 'https://capsule-render.vercel.app/api?type=shark&color=auto&height=100&section=footer'/></div>
