@@ -39,8 +39,6 @@ Sometimes I try to study other languages ​​as well. Languages ​​such as 
   Backend
   
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/CLI-4D4D4D?style=flat-square&logo=Windows Terminal&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/>
   
   Python Framework & Library
   
