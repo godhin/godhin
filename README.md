@@ -58,7 +58,7 @@ Sometimes I try to study other languages ​​as well. Languages ​​such as 
 
 ### <div align = 'center'> ⚡️ Github & Language Stats ⚡️ </div>
         
-| <a href="https://github.com/godhin/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=godhin&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&count_private=True" alt="Yoo's github stats" /></a> | <a href="https://github.com/godhin/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=godhin&layout=compact&theme=buefy&hide_border=true&hide=jupyter%20notebook" /></a> |
+| <a href="https://github.com/godhin/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=godhin&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&count_private=False" alt="Yoo's github stats" /></a> | <a href="https://github.com/godhin/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=godhin&layout=compact&theme=buefy&hide_border=true&hide=jupyter%20notebook" /></a> |
 | ------------- | ------------- |
 
 
