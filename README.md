@@ -51,6 +51,8 @@ Sometimes I try to study other languages ​​as well. Languages ​​such as 
   ### 🏆 Trophies 🏆
 <div align = 'center'><img src = 'https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=flat&column=7'/></div>
 
+  ***
+  
   ### ⍰ Baekjoon ⍰
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cmblir)](https://solved.ac/cmblir)
@@ -64,8 +66,9 @@ Sometimes I try to study other languages ​​as well. Languages ​​such as 
 | <a href="https://github.com/godhin/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=godhin&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&count_private=False" alt="Yoo's github stats" /></a> | <a href="https://github.com/godhin/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=godhin&layout=compact&theme=buefy&hide_border=true&hide=jupyter%20notebook" /></a> |
 | ------------- | ------------- |
 
+***
 
-### <div align = 'center'> 🐍 Snake 🐍 </div>
+### <div align = 'center'> 🐍 Snake eat my commits 🐍 </div>
 
 ![snake gif](https://github.com/godhin/godhin/blob/output/github-contribution-grid-snake.svg)
 
