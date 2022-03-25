@@ -62,9 +62,9 @@ Sometimes I try to study other languages ​​as well. Languages ​​such as 
 | ------------- | ------------- |
 
 
-### <div align = 'center'>🜸 Top Repositories 🜸</div>
-<a href="https://github.com/godhin/cmblir.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=godhin&repo=cmblir.io&theme=buefy" />
-</a>
+### <div align = 'center'> 🐍 Snake 🐍 </div>
+
+![snake gif](https://github.com/godhin/godhin/blob/output/github-contribution-grid-snake.svg)
+
 
 <div align = 'center'><img src = 'https://capsule-render.vercel.app/api?type=shark&color=auto&height=100&section=footer'/></div>
