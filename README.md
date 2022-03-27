@@ -70,7 +70,7 @@ Sometimes I try to study other languages ​​as well. Languages ​​such as 
 
 ### <div align = 'center'> 🐍 Snake eat my commits 🐍 </div>
 
-![snake gif](https://github.com/godhin/godhin/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/godhin/godhin/blob/output/github-contribution-grid-snake.sv
 
 
 <div align = 'center'><img src = 'https://capsule-render.vercel.app/api?type=shark&color=auto&height=100&section=footer'/></div>
