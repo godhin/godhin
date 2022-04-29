@@ -43,7 +43,6 @@ Sometimes I try to study other languages ​​as well. Languages ​​such as 
   Database
    
 <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Metabase-509EE3?style=flat-square&logo=Metabase&logoColor=white"/>
 
 
   ***
