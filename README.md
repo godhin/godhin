@@ -45,12 +45,9 @@ Sometimes I try to study other languages ​​as well. Languages ​​such as 
 <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/>
 
 
-  ***
-
   ### 🏆 Trophies 🏆
 <div align = 'center'><img src = 'https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=flat&column=7'/></div>
 
-  ***
   
 
 
