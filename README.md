@@ -52,9 +52,7 @@ Sometimes I try to study other languages ​​as well. Languages ​​such as 
 
   ***
   
-  ### 😎 Baekjoon 😎
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cmblir)](https://solved.ac/cmblir)
 
 </div>
 
